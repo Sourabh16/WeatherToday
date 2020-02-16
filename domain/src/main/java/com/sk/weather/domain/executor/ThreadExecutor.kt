@@ -1,0 +1,5 @@
+package com.sk.weather.domain.executor
+
+import java.util.concurrent.Executor
+
+interface ThreadExecutor : Executor
